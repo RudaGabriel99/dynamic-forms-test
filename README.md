@@ -138,8 +138,8 @@ Os dados são salvos no localStorage através do Zustand persist:
 1. **Clone o repositório**
 
    ```bash
-   git clone [url-do-repositorio]
-   cd dynamic-forms
+   git clone https://github.com/RudaGabriel99/dynamic-forms-test.git
+   cd dynamic-forms-test
    ```
 
 2. **Instale as dependências**
